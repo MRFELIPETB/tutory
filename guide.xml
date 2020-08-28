@@ -1,0 +1,1097 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name lang="pt">Arte 1 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Baby TV SD">
+    <display-name lang="pt">Baby TV SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band News HD">
+    <display-name lang="pt">Band News HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boomerang HD">
+    <display-name lang="pt">Boomerang HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Brasil HD">
+    <display-name lang="pt">Canal Brasil HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cultura HD">
+    <display-name lang="pt">Cultura HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Curta! SD">
+    <display-name lang="pt">Curta! SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health HD">
+    <display-name lang="pt">Discovery Home &amp; Health HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="pt">Discovery Science HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Theater HD">
+    <display-name lang="pt">Discovery Theater HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Turbo HD">
+    <display-name lang="pt">Discovery Turbo HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery World HD">
+    <display-name lang="pt">Discovery World HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Júnior HD">
+    <display-name lang="pt">Disney Júnior HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney XD HD">
+    <display-name lang="pt">Disney XD HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20200828162000 -0300" stop="20200828182000 -0300" channel="AMC HD">
+    <title lang="pt">De Volta para o Futuro Parte III</title>
+  </programme>
+  <programme start="20200828182000 -0300" stop="20200828200000 -0300" channel="AMC HD">
+    <title lang="pt">Lutando Por Uma Chance</title>
+  </programme>
+  <programme start="20200828200000 -0300" stop="20200828223000 -0300" channel="AMC HD">
+    <title lang="pt">Questão de Honra</title>
+  </programme>
+  <programme start="20200828223000 -0300" stop="20200829002500 -0300" channel="AMC HD">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+  </programme>
+  <programme start="20200829002500 -0300" stop="20200829025000 -0300" channel="AMC HD">
+    <title lang="pt">Guerra ao Terror</title>
+  </programme>
+  <programme start="20200829025000 -0300" stop="20200829050000 -0300" channel="AMC HD">
+    <title lang="pt">Riddick 3</title>
+  </programme>
+  <programme start="20200829050000 -0300" stop="20200829060000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200829060000 -0300" stop="20200829063000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200829063000 -0300" stop="20200829070000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200829070000 -0300" stop="20200829073000 -0300" channel="AMC HD">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200829073000 -0300" stop="20200829080000 -0300" channel="AMC HD">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200829080000 -0300" stop="20200829083000 -0300" channel="AMC HD">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200829083000 -0300" stop="20200829090000 -0300" channel="AMC HD">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200829090000 -0300" stop="20200829093000 -0300" channel="AMC HD">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200829093000 -0300" stop="20200829100000 -0300" channel="AMC HD">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200829100000 -0300" stop="20200829103000 -0300" channel="AMC HD">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200829103000 -0300" stop="20200829113000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200829113000 -0300" stop="20200829132500 -0300" channel="AMC HD">
+    <title lang="pt">A Onda</title>
+  </programme>
+  <programme start="20200829132500 -0300" stop="20200829151000 -0300" channel="AMC HD">
+    <title lang="pt">Gente Grande</title>
+  </programme>
+  <programme start="20200829151000 -0300" stop="20200829170500 -0300" channel="AMC HD">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+  </programme>
+  <programme start="20200829170500 -0300" stop="20200829184500 -0300" channel="AMC HD">
+    <title lang="pt">Lutando Por Uma Chance</title>
+  </programme>
+  <programme start="20200829184500 -0300" stop="20200829204000 -0300" channel="AMC HD">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+  </programme>
+  <programme start="20200829204000 -0300" stop="20200829223000 -0300" channel="AMC HD">
+    <title lang="pt">Dose Dupla</title>
+  </programme>
+  <programme start="20200829223000 -0300" stop="20200830010000 -0300" channel="AMC HD">
+    <title lang="pt">O Ataque</title>
+  </programme>
+  <programme start="20200828000000 -0300" stop="20200828003000 -0300" channel="Baby TV SD">
+    <title lang="pt">Oceano</title>
+  </programme>
+  <programme start="20200828003000 -0300" stop="20200828010000 -0300" channel="Baby TV SD">
+    <title lang="pt">Estrela Cadente</title>
+  </programme>
+  <programme start="20200828010000 -0300" stop="20200828013000 -0300" channel="Baby TV SD">
+    <title lang="pt">Oceano</title>
+  </programme>
+  <programme start="20200828013000 -0300" stop="20200828020000 -0300" channel="Baby TV SD">
+    <title lang="pt">Via Láctea</title>
+  </programme>
+  <programme start="20200828020000 -0300" stop="20200828023000 -0300" channel="Baby TV SD">
+    <title lang="pt">Hora de Dormir</title>
+  </programme>
+  <programme start="20200828023000 -0300" stop="20200828030000 -0300" channel="Baby TV SD">
+    <title lang="pt">Céu Noturno</title>
+  </programme>
+  <programme start="20200828030000 -0300" stop="20200828033000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200828033000 -0300" stop="20200828040000 -0300" channel="Baby TV SD">
+    <title lang="pt">Crepúsculo</title>
+  </programme>
+  <programme start="20200828040000 -0300" stop="20200828043000 -0300" channel="Baby TV SD">
+    <title lang="pt">Céu</title>
+  </programme>
+  <programme start="20200828043000 -0300" stop="20200828050000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200828050000 -0300" stop="20200828053000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200828053000 -0300" stop="20200828060000 -0300" channel="Baby TV SD">
+    <title lang="pt">Charlie &amp; o Alfabeto Inglês</title>
+  </programme>
+  <programme start="20200828060000 -0300" stop="20200828063000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200828063000 -0300" stop="20200828070000 -0300" channel="Baby TV SD">
+    <title lang="pt">Tulli</title>
+  </programme>
+  <programme start="20200828070000 -0300" stop="20200828073000 -0300" channel="Baby TV SD">
+    <title lang="pt">LaLe Ki LoLu</title>
+  </programme>
+  <programme start="20200828073000 -0300" stop="20200828080000 -0300" channel="Baby TV SD">
+    <title lang="pt">Tutti Frutti</title>
+  </programme>
+  <programme start="20200828080000 -0300" stop="20200828083000 -0300" channel="Baby TV SD">
+    <title lang="pt">Lições de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200828083000 -0300" stop="20200828090000 -0300" channel="Baby TV SD">
+    <title lang="pt">Bons Amigos</title>
+  </programme>
+  <programme start="20200828090000 -0300" stop="20200828093000 -0300" channel="Baby TV SD">
+    <title lang="pt">Gee-Raffa</title>
+  </programme>
+  <programme start="20200828093000 -0300" stop="20200828100000 -0300" channel="Baby TV SD">
+    <title lang="pt">Parabéns à Você</title>
+  </programme>
+  <programme start="20200828100000 -0300" stop="20200828103000 -0300" channel="Baby TV SD">
+    <title lang="pt">Let's Dance</title>
+  </programme>
+  <programme start="20200828103000 -0300" stop="20200828110000 -0300" channel="Baby TV SD">
+    <title lang="pt">A Pequena Lola Visita a Fazenda</title>
+  </programme>
+  <programme start="20200828110000 -0300" stop="20200828113000 -0300" channel="Baby TV SD">
+    <title lang="pt">Let's Dance</title>
+  </programme>
+  <programme start="20200828113000 -0300" stop="20200828120000 -0300" channel="Baby TV SD">
+    <title lang="pt">Lições de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200828120000 -0300" stop="20200828123000 -0300" channel="Baby TV SD">
+    <title lang="pt">Mona e Sketch</title>
+  </programme>
+  <programme start="20200828123000 -0300" stop="20200828130000 -0300" channel="Baby TV SD">
+    <title lang="pt">A Zoe Quer Ser</title>
+  </programme>
+  <programme start="20200828130000 -0300" stop="20200828133000 -0300" channel="Baby TV SD">
+    <title lang="pt">Choopies</title>
+  </programme>
+  <programme start="20200828133000 -0300" stop="20200828140000 -0300" channel="Baby TV SD">
+    <title lang="pt">Os Mini-Amigos</title>
+  </programme>
+  <programme start="20200828140000 -0300" stop="20200828143000 -0300" channel="Baby TV SD">
+    <title lang="pt">Os Ratinhos Construtores</title>
+  </programme>
+  <programme start="20200828143000 -0300" stop="20200828150000 -0300" channel="Baby TV SD">
+    <title lang="pt">Lições de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200828150000 -0300" stop="20200828153000 -0300" channel="Baby TV SD">
+    <title lang="pt">Mona e Sketch</title>
+  </programme>
+  <programme start="20200828153000 -0300" stop="20200828160000 -0300" channel="Baby TV SD">
+    <title lang="pt">A Zoe Quer Ser</title>
+  </programme>
+  <programme start="20200828160000 -0300" stop="20200828163000 -0300" channel="Baby TV SD">
+    <title lang="pt">Choopies</title>
+  </programme>
+  <programme start="20200828163000 -0300" stop="20200828170000 -0300" channel="Baby TV SD">
+    <title lang="pt">Os Mini-Amigos</title>
+  </programme>
+  <programme start="20200828170000 -0300" stop="20200828173000 -0300" channel="Baby TV SD">
+    <title lang="pt">Charlie &amp; o Alfabeto Inglês</title>
+  </programme>
+  <programme start="20200828173000 -0300" stop="20200828180000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200828180000 -0300" stop="20200828183000 -0300" channel="Baby TV SD">
+    <title lang="pt">No Mundo Animal</title>
+  </programme>
+  <programme start="20200828183000 -0300" stop="20200828190000 -0300" channel="Baby TV SD">
+    <title lang="pt">Gee-Raffa</title>
+  </programme>
+  <programme start="20200828190000 -0300" stop="20200828193000 -0300" channel="Baby TV SD">
+    <title lang="pt">Os Mini-Amigos</title>
+  </programme>
+  <programme start="20200828193000 -0300" stop="20200828200000 -0300" channel="Baby TV SD">
+    <title lang="pt">Estúdios BabyTV</title>
+  </programme>
+  <programme start="20200828200000 -0300" stop="20200828203000 -0300" channel="Baby TV SD">
+    <title lang="pt">Melody Musical</title>
+  </programme>
+  <programme start="20200828203000 -0300" stop="20200828210000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200828210000 -0300" stop="20200828213000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200828213000 -0300" stop="20200828220000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200828220000 -0300" stop="20200828223000 -0300" channel="Baby TV SD">
+    <title lang="pt">Estrela Cadente</title>
+  </programme>
+  <programme start="20200828223000 -0300" stop="20200828230000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200828230000 -0300" stop="20200828233000 -0300" channel="Baby TV SD">
+    <title lang="pt">Oceano</title>
+  </programme>
+  <programme start="20200828233000 -0300" stop="20200829000000 -0300" channel="Baby TV SD">
+    <title lang="pt">Estrela Cadente</title>
+  </programme>
+  <programme start="20200829000000 -0300" stop="20200829003000 -0300" channel="Baby TV SD">
+    <title lang="pt">Oceano</title>
+  </programme>
+  <programme start="20200829003000 -0300" stop="20200829010000 -0300" channel="Baby TV SD">
+    <title lang="pt">Crepúsculo</title>
+  </programme>
+  <programme start="20200829010000 -0300" stop="20200829013000 -0300" channel="Baby TV SD">
+    <title lang="pt">Oceano</title>
+  </programme>
+  <programme start="20200829013000 -0300" stop="20200829020000 -0300" channel="Baby TV SD">
+    <title lang="pt">Noites Estreladas</title>
+  </programme>
+  <programme start="20200829020000 -0300" stop="20200829023000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829023000 -0300" stop="20200829030000 -0300" channel="Baby TV SD">
+    <title lang="pt">Noites Estreladas</title>
+  </programme>
+  <programme start="20200829030000 -0300" stop="20200829033000 -0300" channel="Baby TV SD">
+    <title lang="pt">Luar</title>
+  </programme>
+  <programme start="20200829033000 -0300" stop="20200829040000 -0300" channel="Baby TV SD">
+    <title lang="pt">Crepúsculo</title>
+  </programme>
+  <programme start="20200829040000 -0300" stop="20200829043000 -0300" channel="Baby TV SD">
+    <title lang="pt">Céu</title>
+  </programme>
+  <programme start="20200829043000 -0300" stop="20200829050000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829050000 -0300" stop="20200829053000 -0300" channel="Baby TV SD">
+    <title lang="pt">No Mundo dos Brinquedos</title>
+  </programme>
+  <programme start="20200829053000 -0300" stop="20200829060000 -0300" channel="Baby TV SD">
+    <title lang="pt">Charlie &amp; o Alfabeto Inglês</title>
+  </programme>
+  <programme start="20200829060000 -0300" stop="20200829063000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829063000 -0300" stop="20200829070000 -0300" channel="Baby TV SD">
+    <title lang="pt">Tulli</title>
+  </programme>
+  <programme start="20200829070000 -0300" stop="20200829073000 -0300" channel="Baby TV SD">
+    <title lang="pt">LaLe Ki LoLu</title>
+  </programme>
+  <programme start="20200829073000 -0300" stop="20200829080000 -0300" channel="Baby TV SD">
+    <title lang="pt">Tutti Frutti</title>
+  </programme>
+  <programme start="20200829080000 -0300" stop="20200829083000 -0300" channel="Baby TV SD">
+    <title lang="pt">Lições de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200829083000 -0300" stop="20200829090000 -0300" channel="Baby TV SD">
+    <title lang="pt">Bons Amigos</title>
+  </programme>
+  <programme start="20200829090000 -0300" stop="20200829093000 -0300" channel="Baby TV SD">
+    <title lang="pt">Gee-Raffa</title>
+  </programme>
+  <programme start="20200829093000 -0300" stop="20200829100000 -0300" channel="Baby TV SD">
+    <title lang="pt">Parabéns à Você</title>
+  </programme>
+  <programme start="20200829100000 -0300" stop="20200829103000 -0300" channel="Baby TV SD">
+    <title lang="pt">Let's Dance</title>
+  </programme>
+  <programme start="20200829103000 -0300" stop="20200829110000 -0300" channel="Baby TV SD">
+    <title lang="pt">Estúdios BabyTV</title>
+  </programme>
+  <programme start="20200829110000 -0300" stop="20200829113000 -0300" channel="Baby TV SD">
+    <title lang="pt">Let's Dance</title>
+  </programme>
+  <programme start="20200829113000 -0300" stop="20200829120000 -0300" channel="Baby TV SD">
+    <title lang="pt">Lições de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200829120000 -0300" stop="20200829123000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829123000 -0300" stop="20200829130000 -0300" channel="Baby TV SD">
+    <title lang="pt">A Zoe Quer Ser</title>
+  </programme>
+  <programme start="20200829130000 -0300" stop="20200829133000 -0300" channel="Baby TV SD">
+    <title lang="pt">Choopies</title>
+  </programme>
+  <programme start="20200829133000 -0300" stop="20200829140000 -0300" channel="Baby TV SD">
+    <title lang="pt">Os Mini-Amigos</title>
+  </programme>
+  <programme start="20200829140000 -0300" stop="20200829143000 -0300" channel="Baby TV SD">
+    <title lang="pt">Os Ratinhos Construtores</title>
+  </programme>
+  <programme start="20200829143000 -0300" stop="20200829150000 -0300" channel="Baby TV SD">
+    <title lang="pt">Lições de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200829150000 -0300" stop="20200829153000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829153000 -0300" stop="20200829160000 -0300" channel="Baby TV SD">
+    <title lang="pt">A Zoe Quer Ser</title>
+  </programme>
+  <programme start="20200829160000 -0300" stop="20200829163000 -0300" channel="Baby TV SD">
+    <title lang="pt">Choopies</title>
+  </programme>
+  <programme start="20200829163000 -0300" stop="20200829170000 -0300" channel="Baby TV SD">
+    <title lang="pt">Os Mini-Amigos</title>
+  </programme>
+  <programme start="20200829170000 -0300" stop="20200829173000 -0300" channel="Baby TV SD">
+    <title lang="pt">Charlie &amp; o Alfabeto Inglês</title>
+  </programme>
+  <programme start="20200829173000 -0300" stop="20200829180000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829180000 -0300" stop="20200829183000 -0300" channel="Baby TV SD">
+    <title lang="pt">Tulli</title>
+  </programme>
+  <programme start="20200829183000 -0300" stop="20200829190000 -0300" channel="Baby TV SD">
+    <title lang="pt">Tutti Frutti</title>
+  </programme>
+  <programme start="20200829190000 -0300" stop="20200829193000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829193000 -0300" stop="20200829200000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829200000 -0300" stop="20200829203000 -0300" channel="Baby TV SD">
+    <title lang="pt">Melody Musical</title>
+  </programme>
+  <programme start="20200829203000 -0300" stop="20200829210000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829210000 -0300" stop="20200829213000 -0300" channel="Baby TV SD">
+    <title lang="pt">Canções e Rimas</title>
+  </programme>
+  <programme start="20200829213000 -0300" stop="20200829220000 -0300" channel="Baby TV SD">
+    <title lang="pt">Que Dia Maravilhoso</title>
+  </programme>
+  <programme start="20200829220000 -0300" stop="20200829223000 -0300" channel="Baby TV SD">
+    <title lang="pt">Rio</title>
+  </programme>
+  <programme start="20200829223000 -0300" stop="20200829230000 -0300" channel="Baby TV SD">
+    <title lang="pt">Via Láctea</title>
+  </programme>
+  <programme start="20200829230000 -0300" stop="20200829233000 -0300" channel="Baby TV SD">
+    <title lang="pt">Crepúsculo</title>
+  </programme>
+  <programme start="20200829233000 -0300" stop="20200830000000 -0300" channel="Baby TV SD">
+    <title lang="pt">Estrela Cadente</title>
+  </programme>
+  <programme start="20200828000000 -0300" stop="20200828003000 -0300" channel="Band News HD">
+    <title lang="pt">Ponto a Ponto</title>
+  </programme>
+  <programme start="20200828003000 -0300" stop="20200828020000 -0300" channel="Band News HD">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20200828020000 -0300" stop="20200828030000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20200828030000 -0300" stop="20200828033000 -0300" channel="Band News HD">
+    <title lang="pt">Capital Natural</title>
+  </programme>
+  <programme start="20200828033000 -0300" stop="20200828040000 -0300" channel="Band News HD">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20200828040000 -0300" stop="20200828043000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20200828043000 -0300" stop="20200828060000 -0300" channel="Band News HD">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20200828060000 -0300" stop="20200828073000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20200828073000 -0300" stop="20200828084500 -0300" channel="Band News HD">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20200828084500 -0300" stop="20200828090000 -0300" channel="Band News HD">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200828090000 -0300" stop="20200828103000 -0300" channel="Band News HD">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20200828103000 -0300" stop="20200828104500 -0300" channel="Band News HD">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200828104500 -0300" stop="20200828120000 -0300" channel="Band News HD">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20200828120000 -0300" stop="20200828140000 -0300" channel="Band News HD">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+  </programme>
+  <programme start="20200828140000 -0300" stop="20200828144500 -0300" channel="Band News HD">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20200828144500 -0300" stop="20200828150000 -0300" channel="Band News HD">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200828150000 -0300" stop="20200828180000 -0300" channel="Band News HD">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20200828180000 -0300" stop="20200828191500 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20200828191500 -0300" stop="20200828193000 -0300" channel="Band News HD">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200828193000 -0300" stop="20200828200000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20200828200000 -0300" stop="20200828203000 -0300" channel="Band News HD">
+    <title lang="pt">Expresso Bandnews</title>
+  </programme>
+  <programme start="20200828203000 -0300" stop="20200828213000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20200828213000 -0300" stop="20200828220000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+  </programme>
+  <programme start="20200828220000 -0300" stop="20200828221500 -0300" channel="Band News HD">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200828221500 -0300" stop="20200828223000 -0300" channel="Band News HD">
+    <title lang="pt">Expresso Bandnews</title>
+  </programme>
+  <programme start="20200828223000 -0300" stop="20200828230000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+  </programme>
+  <programme start="20200828230000 -0300" stop="20200828233000 -0300" channel="Band News HD">
+    <title lang="pt">Conexão com The New York Times</title>
+  </programme>
+  <programme start="20200828233000 -0300" stop="20200829000000 -0300" channel="Band News HD">
+    <title lang="pt">Totalmente Excelente</title>
+  </programme>
+  <programme start="20200829000000 -0300" stop="20200829020000 -0300" channel="Band News HD">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20200829020000 -0300" stop="20200829030000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20200829030000 -0300" stop="20200829040000 -0300" channel="Band News HD">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20200829040000 -0300" stop="20200829043000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20200829043000 -0300" stop="20200829060000 -0300" channel="Band News HD">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20200829060000 -0300" stop="20200829070000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20200829070000 -0300" stop="20200829073000 -0300" channel="Band News HD">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20200829073000 -0300" stop="20200829084500 -0300" channel="Band News HD">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20200829084500 -0300" stop="20200829090000 -0300" channel="Band News HD">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200829090000 -0300" stop="20200829093000 -0300" channel="Band News HD">
+    <title lang="pt">Conexão com The New York Times</title>
+  </programme>
+  <programme start="20200829093000 -0300" stop="20200829101500 -0300" channel="Band News HD">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20200829101500 -0300" stop="20200829110000 -0300" channel="Band News HD">
+    <title lang="pt">Aqui Tem Vaga</title>
+  </programme>
+  <programme start="20200829110000 -0300" stop="20200829120000 -0300" channel="Band News HD">
+    <title lang="pt">Ponto a Ponto</title>
+  </programme>
+  <programme start="20200829120000 -0300" stop="20200829123000 -0300" channel="Band News HD">
+    <title lang="pt">Capital e Mercado</title>
+  </programme>
+  <programme start="20200829123000 -0300" stop="20200829133000 -0300" channel="Band News HD">
+    <title lang="pt">Entrevista Dr. Salim</title>
+  </programme>
+  <programme start="20200829133000 -0300" stop="20200829140000 -0300" channel="Band News HD">
+    <title lang="pt">Dinheiro Em Foco</title>
+  </programme>
+  <programme start="20200829140000 -0300" stop="20200829144500 -0300" channel="Band News HD">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20200829144500 -0300" stop="20200829153000 -0300" channel="Band News HD">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200829153000 -0300" stop="20200829160000 -0300" channel="Band News HD">
+    <title lang="pt">Feiras e Negócios</title>
+  </programme>
+  <programme start="20200829160000 -0300" stop="20200829163000 -0300" channel="Band News HD">
+    <title lang="pt">Aqui Tem Vaga</title>
+  </programme>
+  <programme start="20200829163000 -0300" stop="20200829173000 -0300" channel="Band News HD">
+    <title lang="pt">Dinheiro Em Foco</title>
+  </programme>
+  <programme start="20200829173000 -0300" stop="20200829180000 -0300" channel="Band News HD">
+    <title lang="pt">Capital Natural</title>
+  </programme>
+  <programme start="20200829180000 -0300" stop="20200829190000 -0300" channel="Band News HD">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20200829190000 -0300" stop="20200829193000 -0300" channel="Band News HD">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20200829193000 -0300" stop="20200829203000 -0300" channel="Band News HD">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200829203000 -0300" stop="20200829213000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20200829213000 -0300" stop="20200829220000 -0300" channel="Band News HD">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20200829220000 -0300" stop="20200829221500 -0300" channel="Band News HD">
+    <title lang="pt">Giro Business</title>
+  </programme>
+  <programme start="20200829221500 -0300" stop="20200829230000 -0300" channel="Band News HD">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20200829230000 -0300" stop="20200830000000 -0300" channel="Band News HD">
+    <title lang="pt">Conexão com The New York Times</title>
+  </programme>
+  <programme start="20200828013000 -0300" stop="20200828020000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20200828020000 -0300" stop="20200828030000 -0300" channel="Band Sports HD">
+    <title lang="pt">Viva o Esporte</title>
+  </programme>
+  <programme start="20200828030000 -0300" stop="20200828033000 -0300" channel="Band Sports HD">
+    <title lang="pt">Maratona Bandsports</title>
+  </programme>
+  <programme start="20200828033000 -0300" stop="20200828040000 -0300" channel="Band Sports HD">
+    <title lang="pt">Lado B</title>
+  </programme>
+  <programme start="20200828040000 -0300" stop="20200828043000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20200828043000 -0300" stop="20200828053000 -0300" channel="Band Sports HD">
+    <title lang="pt">Viva o Esporte</title>
+  </programme>
+  <programme start="20200828053000 -0300" stop="20200828060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Perto Deles</title>
+  </programme>
+  <programme start="20200828060000 -0300" stop="20200828070000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20200828070000 -0300" stop="20200828071500 -0300" channel="Band Sports HD">
+    <title lang="pt">Mini Doc. Bandsports</title>
+  </programme>
+  <programme start="20200828071500 -0300" stop="20200828073000 -0300" channel="Band Sports HD">
+    <title lang="pt">Sacada do Saretta</title>
+  </programme>
+  <programme start="20200828073000 -0300" stop="20200828080000 -0300" channel="Band Sports HD">
+    <title lang="pt">Maratona Bandsports</title>
+  </programme>
+  <programme start="20200828080000 -0300" stop="20200828100000 -0300" channel="Band Sports HD">
+    <title lang="pt">Encontro de Craques</title>
+  </programme>
+  <programme start="20200828100000 -0300" stop="20200828110000 -0300" channel="Band Sports HD">
+    <title lang="pt">Viva o Esporte</title>
+  </programme>
+  <programme start="20200828110000 -0300" stop="20200828130000 -0300" channel="Band Sports HD">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20200828130000 -0300" stop="20200828143000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20200828143000 -0300" stop="20200828153000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tiki Taka</title>
+  </programme>
+  <programme start="20200828153000 -0300" stop="20200828170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Especial Tênis</title>
+  </programme>
+  <programme start="20200828170000 -0300" stop="20200828183000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20200828183000 -0300" stop="20200828193000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports On-line</title>
+  </programme>
+  <programme start="20200828193000 -0300" stop="20200828200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20200828200000 -0300" stop="20200828220000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20200828220000 -0300" stop="20200828230000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tiki Taka</title>
+  </programme>
+  <programme start="20200828230000 -0300" stop="20200828233000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20200828233000 -0300" stop="20200829013000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20200829013000 -0300" stop="20200829020000 -0300" channel="Band Sports HD">
+    <title lang="pt">Time dos Sonhos</title>
+  </programme>
+  <programme start="20200829020000 -0300" stop="20200829030000 -0300" channel="Band Sports HD">
+    <title lang="pt">Viva o Esporte</title>
+  </programme>
+  <programme start="20200829030000 -0300" stop="20200829033000 -0300" channel="Band Sports HD">
+    <title lang="pt">Lado B</title>
+  </programme>
+  <programme start="20200829033000 -0300" stop="20200829040000 -0300" channel="Band Sports HD">
+    <title lang="pt">Ícones do Esporte</title>
+  </programme>
+  <programme start="20200829040000 -0300" stop="20200829043000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20200829043000 -0300" stop="20200829053000 -0300" channel="Band Sports HD">
+    <title lang="pt">Viva o Esporte</title>
+  </programme>
+  <programme start="20200829053000 -0300" stop="20200829060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Times dos Sonhos</title>
+  </programme>
+  <programme start="20200829060000 -0300" stop="20200829100000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20200829100000 -0300" stop="20200829110000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tika Taka</title>
+  </programme>
+  <programme start="20200829110000 -0300" stop="20200829120000 -0300" channel="Band Sports HD">
+    <title lang="pt">Viva o Esporte</title>
+  </programme>
+  <programme start="20200829120000 -0300" stop="20200829130000 -0300" channel="Band Sports HD">
+    <title lang="pt">Smithsonian Aqui no Bandsports</title>
+  </programme>
+  <programme start="20200829130000 -0300" stop="20200829140000 -0300" channel="Band Sports HD">
+    <title lang="pt">Arquibancada Bandsports</title>
+  </programme>
+  <programme start="20200829140000 -0300" stop="20200829160000 -0300" channel="Band Sports HD">
+    <title lang="pt">Você Torceu Aqui</title>
+  </programme>
+  <programme start="20200829160000 -0300" stop="20200829170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20200829170000 -0300" stop="20200829173000 -0300" channel="Band Sports HD">
+    <title lang="pt">Maratona Bandsports</title>
+  </programme>
+  <programme start="20200829173000 -0300" stop="20200829180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Lado B</title>
+  </programme>
+  <programme start="20200829180000 -0300" stop="20200829200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Sala do Esporte</title>
+  </programme>
+  <programme start="20200829200000 -0300" stop="20200829210000 -0300" channel="Band Sports HD">
+    <title lang="pt">Smithsonian Aqui no Bandsports</title>
+  </programme>
+  <programme start="20200829210000 -0300" stop="20200829223000 -0300" channel="Band Sports HD">
+    <title lang="pt">Sala do Esporte</title>
+  </programme>
+  <programme start="20200829223000 -0300" stop="20200829233000 -0300" channel="Band Sports HD">
+    <title lang="pt">Especial Boxe</title>
+  </programme>
+  <programme start="20200829233000 -0300" stop="20200830013000 -0300" channel="Band Sports HD">
+    <title lang="pt">Especial MMA</title>
+  </programme>
+  <programme start="20200828000000 -0300" stop="20200828020000 -0300" channel="Combate HD">
+    <title lang="pt">Combate Brasil</title>
+  </programme>
+  <programme start="20200828020000 -0300" stop="20200828030000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+  </programme>
+  <programme start="20200828030000 -0300" stop="20200828040000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+  </programme>
+  <programme start="20200828040000 -0300" stop="20200828043000 -0300" channel="Combate HD">
+    <title lang="pt">Giro Combate</title>
+  </programme>
+  <programme start="20200828043000 -0300" stop="20200828055000 -0300" channel="Combate HD">
+    <title lang="pt">Combate Brasil</title>
+  </programme>
+  <programme start="20200828055000 -0300" stop="20200828060000 -0300" channel="Combate HD">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200828060000 -0300" stop="20200828070000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate</title>
+  </programme>
+  <programme start="20200828070000 -0300" stop="20200828080000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+  </programme>
+  <programme start="20200828080000 -0300" stop="20200828090000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate</title>
+  </programme>
+  <programme start="20200828090000 -0300" stop="20200828092000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+  </programme>
+  <programme start="20200828092000 -0300" stop="20200828093000 -0300" channel="Combate HD">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200828093000 -0300" stop="20200828130000 -0300" channel="Combate HD">
+    <title lang="pt">Clássicos do UFC</title>
+  </programme>
+  <programme start="20200828130000 -0300" stop="20200828140000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate</title>
+  </programme>
+  <programme start="20200828140000 -0300" stop="20200828163000 -0300" channel="Combate HD">
+    <title lang="pt">Clássicos do UFC</title>
+  </programme>
+  <programme start="20200828163000 -0300" stop="20200828173000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+  </programme>
+  <programme start="20200828173000 -0300" stop="20200828185000 -0300" channel="Combate HD">
+    <title lang="pt">Combate Brasil</title>
+  </programme>
+  <programme start="20200828185000 -0300" stop="20200828190000 -0300" channel="Combate HD">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200828190000 -0300" stop="20200828200000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+  </programme>
+  <programme start="20200828200000 -0300" stop="20200828203000 -0300" channel="Combate HD">
+    <title lang="pt">Giro Combate</title>
+  </programme>
+  <programme start="20200828203000 -0300" stop="20200829000000 -0300" channel="Combate HD">
+    <title lang="pt">Escolha Seu Combate</title>
+  </programme>
+  <programme start="20200829000000 -0300" stop="20200829020000 -0300" channel="Combate HD">
+    <title lang="pt">Combate Brasil</title>
+  </programme>
+  <programme start="20200829020000 -0300" stop="20200829030000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+  </programme>
+  <programme start="20200829030000 -0300" stop="20200829040000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+  </programme>
+  <programme start="20200829040000 -0300" stop="20200829043000 -0300" channel="Combate HD">
+    <title lang="pt">Giro Combate</title>
+  </programme>
+  <programme start="20200829043000 -0300" stop="20200829055000 -0300" channel="Combate HD">
+    <title lang="pt">Combate Brasil</title>
+  </programme>
+  <programme start="20200829055000 -0300" stop="20200829060000 -0300" channel="Combate HD">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200829060000 -0300" stop="20200829070000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate</title>
+  </programme>
+  <programme start="20200829070000 -0300" stop="20200829080000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+  </programme>
+  <programme start="20200829080000 -0300" stop="20200829090000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate</title>
+  </programme>
+  <programme start="20200829090000 -0300" stop="20200829092000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+  </programme>
+  <programme start="20200829092000 -0300" stop="20200829093000 -0300" channel="Combate HD">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200829093000 -0300" stop="20200829130000 -0300" channel="Combate HD">
+    <title lang="pt">Clássicos do UFC</title>
+  </programme>
+  <programme start="20200829130000 -0300" stop="20200829140000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate</title>
+  </programme>
+  <programme start="20200829140000 -0300" stop="20200829163000 -0300" channel="Combate HD">
+    <title lang="pt">Clássicos do UFC</title>
+  </programme>
+  <programme start="20200829163000 -0300" stop="20200829173000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series</title>
+  </programme>
+  <programme start="20200829173000 -0300" stop="20200829185000 -0300" channel="Combate HD">
+    <title lang="pt">Combate Brasil</title>
+  </programme>
+  <programme start="20200829185000 -0300" stop="20200829190000 -0300" channel="Combate HD">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200829190000 -0300" stop="20200829200000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+  </programme>
+  <programme start="20200829200000 -0300" stop="20200829203000 -0300" channel="Combate HD">
+    <title lang="pt">Giro Combate</title>
+  </programme>
+  <programme start="20200829203000 -0300" stop="20200830000000 -0300" channel="Combate HD">
+    <title lang="pt">Escolha Seu Combate</title>
+  </programme>
+  <programme start="20200828001300 -0300" stop="20200828010500 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20200828010500 -0300" stop="20200828013200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200828013200 -0300" stop="20200828015700 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200828015700 -0300" stop="20200828024800 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Masterchef EUA</title>
+  </programme>
+  <programme start="20200828024800 -0300" stop="20200828033800 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+  </programme>
+  <programme start="20200828033800 -0300" stop="20200828042600 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+  </programme>
+  <programme start="20200828042600 -0300" stop="20200828051400 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Esquadrão da Moda</title>
+  </programme>
+  <programme start="20200828051400 -0300" stop="20200828053800 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Reforma À Venda</title>
+  </programme>
+  <programme start="20200828053800 -0300" stop="20200828060200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Vida No Paraíso: Havaí</title>
+  </programme>
+  <programme start="20200828060200 -0300" stop="20200828065000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">O Vestido Ideal</title>
+  </programme>
+  <programme start="20200828065000 -0300" stop="20200828084000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Masterchef Brasil</title>
+  </programme>
+  <programme start="20200828084000 -0300" stop="20200828092800 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Junior Masterchef EUA</title>
+  </programme>
+  <programme start="20200828092800 -0300" stop="20200828101600 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Junior Masterchef EUA</title>
+  </programme>
+  <programme start="20200828101600 -0300" stop="20200828110400 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Os Busbys + 5</title>
+  </programme>
+  <programme start="20200828110400 -0300" stop="20200828115200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Os Busbys + 5</title>
+  </programme>
+  <programme start="20200828115200 -0300" stop="20200828124200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Os Busbys + 5</title>
+  </programme>
+  <programme start="20200828124200 -0300" stop="20200828133500 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Os Busbys + 5</title>
+  </programme>
+  <programme start="20200828133500 -0300" stop="20200828142800 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Os Busbys + 5</title>
+  </programme>
+  <programme start="20200828142800 -0300" stop="20200828152100 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Os Busbys + 5</title>
+  </programme>
+  <programme start="20200828152100 -0300" stop="20200828161400 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Seis de Uma Vez</title>
+  </programme>
+  <programme start="20200828161400 -0300" stop="20200828170700 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Os Busbys + 5</title>
+  </programme>
+  <programme start="20200828170700 -0300" stop="20200828180000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20200828180000 -0300" stop="20200828185000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200828185000 -0300" stop="20200828194000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200828194000 -0300" stop="20200828203000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+  </programme>
+  <programme start="20200828203000 -0300" stop="20200828222200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Masterchef Brasil</title>
+  </programme>
+  <programme start="20200828222200 -0300" stop="20200829000000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Bake Off Brasil</title>
+  </programme>
+  <programme start="20200829000000 -0300" stop="20200829003000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Tem Chef Em Casa</title>
+  </programme>
+  <programme start="20200829003000 -0300" stop="20200829010000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Um Dia de Chef</title>
+  </programme>
+  <programme start="20200829010000 -0300" stop="20200829025200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Masterchef Brasil</title>
+  </programme>
+  <programme start="20200829025200 -0300" stop="20200829034000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Junior Masterchef EUA</title>
+  </programme>
+  <programme start="20200829034000 -0300" stop="20200829042700 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Junior Masterchef EUA</title>
+  </programme>
+  <programme start="20200829042700 -0300" stop="20200829045200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Tem Chef Em Casa</title>
+  </programme>
+  <programme start="20200829045200 -0300" stop="20200829051600 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Cake Boss</title>
+  </programme>
+  <programme start="20200829051600 -0300" stop="20200829054100 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Reforma À Venda</title>
+  </programme>
+  <programme start="20200829054100 -0300" stop="20200829060500 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Vida No Paraíso: Havaí</title>
+  </programme>
+  <programme start="20200829060500 -0300" stop="20200829070000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200829070000 -0300" stop="20200829075000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200829075000 -0300" stop="20200829083900 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+  </programme>
+  <programme start="20200829083900 -0300" stop="20200829092800 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+  </programme>
+  <programme start="20200829092800 -0300" stop="20200829101600 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+  </programme>
+  <programme start="20200829101600 -0300" stop="20200829110400 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20200829110400 -0300" stop="20200829115200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20200829115200 -0300" stop="20200829121700 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Casas Exuberantes</title>
+  </programme>
+  <programme start="20200829121700 -0300" stop="20200829124200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Casas Exuberantes</title>
+  </programme>
+  <programme start="20200829124200 -0300" stop="20200829130800 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200829130800 -0300" stop="20200829133500 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200829133500 -0300" stop="20200829140100 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200829140100 -0300" stop="20200829142800 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200829142800 -0300" stop="20200829145400 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200829145400 -0300" stop="20200829152100 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+  </programme>
+  <programme start="20200829152100 -0300" stop="20200829161400 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Reforma Em Família Com Karen e Mina</title>
+  </programme>
+  <programme start="20200829161400 -0300" stop="20200829170700 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Extreme Makeover: Reconstrução Total</title>
+  </programme>
+  <programme start="20200829170700 -0300" stop="20200829180000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+  </programme>
+  <programme start="20200829180000 -0300" stop="20200829185000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200829185000 -0300" stop="20200829194000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200829194000 -0300" stop="20200829203000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20200829203000 -0300" stop="20200829212000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20200829212000 -0300" stop="20200829221000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+  </programme>
+  <programme start="20200829221000 -0300" stop="20200829225800 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+  </programme>
+  <programme start="20200829225800 -0300" stop="20200829232500 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Menos É Demais</title>
+  </programme>
+  <programme start="20200829232500 -0300" stop="20200829235200 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Menos É Demais</title>
+  </programme>
+  <programme start="20200829235200 -0300" stop="20200830004000 -0300" channel="Discovery Home &amp; Health HD">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+  </programme>
+</tv>
